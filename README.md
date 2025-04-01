@@ -6,12 +6,12 @@ Welcome to the official Android preview release page for **CalGPT** – your sma
 
 ## 📲 Download the Latest APK
 
-**Version:** v1.0.5  
+**Version:** v1.0.6  
 **Date:** 2025-03-30  
 **Filename:** `calgpt.apk`  
 **Size:** ~xx MB (fill in actual size if you know)
 
-➡️ [Click here to download CalGPT for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.5/calgpt.apk)
+➡️ [Click here to download CalGPT for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.6/calgpt.apk)
 
 ---
 
