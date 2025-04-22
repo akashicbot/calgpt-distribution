@@ -1,35 +1,50 @@
-# CalGPT Android Distribution
+# CalGPT v1.0.9 Update — Agent Feature Enhancements 🚀
 
-Welcome to the official Android preview release page for **CalGPT** – your smart AI-powered calorie assistant.
+Dear CalGPT Community,
 
----
+We're excited to announce the release of CalGPT v1.0.9 for both iOS and Android! 🎉
 
-## 📲 Download the Latest APK
+## 🔧 What's New in v1.0.9
 
-**Version:** v1.0.8  
-**Date:** 2023-06-20  
-**Filename:** `calgpt.apk`  
-**Size:** 98.6 MB
+1. **Edit Food Records for Any Day**: You can now modify food entries for both past and future dates, providing you with full control and flexibility over your tracking.
 
-➡️ [Click here to download CalGPT for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.8/calgpt.apk)
+2. **Browse Historical Logs with AI Agent**: The AI agent now supports browsing historical logs, making it easier to review and reflect on your progress.
 
----
+## 🍏 iOS Users
 
-## ❗ How to install
+The latest version is now available on the App Store:
 
-1. Download the APK file using the link above.
-2. Open the file on your Android device.
-3. If prompted, allow installation from unknown sources.
-4. Launch the app and enjoy!
+➡️ [Download for iOS](https://apps.apple.com/app/calgpt/id6741912637)
 
----
+## 🤖 Android Users
 
-## 📧 Feedback & Support
+Download the latest APK:
 
-If you run into any issues or have suggestions, please email us at:
+- **Version**: v1.0.9
+- **Date**: 2025-04-22
+- **Filename**: clagpt1.0.9.apk
 
-**support@calgpt.cc**
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.9/clagpt1.0.9.apk)
 
----
+**How to install**:
+1. Download the APK.
+2. Open it on your Android device.
+3. Allow installation from unknown sources if prompted.
+4. Launch and enjoy! 🎈
 
-Thank you for being part of our early testing community 🙌
+## 🔁 Weekly Updates & Feature Poll
+
+We plan to release updates every Monday and introduce weekly feature polls to decide upcoming CalGPT capabilities — voted on by you, our angel supporters!
+
+## 💬 Join Our Discord Community
+
+- **Android**: [Join Android Discord](https://discord.gg/AzwXNMTaKQ)
+- **iOS**: [Join iOS Discord](https://discord.gg/g7b8k9jArq)
+
+## 📧 Need Help?
+
+If you encounter any issues or have suggestions, don't hesitate to contact us:
+
+📧 [support@calgpt.cc](mailto:support@calgpt.cc)
+
+Thank you for your continued support—your feedback powers CalGPT! 🙌
