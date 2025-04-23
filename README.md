@@ -1,10 +1,10 @@
-# CalGPT v1.0.9 Update — Agent Feature Enhancements 🚀
+# CalGPT v1.0.10 Update — Agent Feature Enhancements 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.0.9 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.0.10 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.0.9
+## 🔧 What's New in v1.0.10
 
 1. **Edit Food Records for Any Day**: You can now modify food entries for both past and future dates, providing you with full control and flexibility over your tracking.
 
@@ -20,11 +20,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.0.9
+- **Version**: v1.0.10
 - **Date**: 2025-04-22
-- **Filename**: clagpt1.0.9.apk
+- **Filename**: calgpt1.0.10.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.9/clagpt1.0.9.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.10/calgpt1.0.10.apk)
 
 **How to install**:
 1. Download the APK.
