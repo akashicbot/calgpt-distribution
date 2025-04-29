@@ -1,14 +1,16 @@
-# CalGPT v1.0.10 Update — Agent Feature Enhancements 🚀
+# CalGPT v1.1.0 Update — Bug Fixes & Usability Improvements 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.0.10 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.1.0 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.0.10
+## 🔧 What's New in v1.1.0
 
-1. **Edit Food Records for Any Day**: You can now modify food entries for both past and future dates, providing you with full control and flexibility over your tracking.
+1. **Fixed First Login Experience**: Resolved the bug causing repeated pop-ups (Set Goal/Set Basic Info) during first login.
 
-2. **Browse Historical Logs with AI Agent**: The AI agent now supports browsing historical logs, making it easier to review and reflect on your progress.
+2. **Added Video Tutorial**: New video guide to help you get the most out of CalGPT.
+
+3. **Version Information Display**: You can now easily check which version of CalGPT you're running.
 
 ## 🍏 iOS Users
 
@@ -20,11 +22,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.0.10
+- **Version**: v1.1.0
 - **Date**: 2025-04-22
-- **Filename**: calgpt1.0.10.apk
+- **Filename**: calgpt1.1.0.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.0.10/calgpt1.0.10.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.0/calgpt1.1.0.apk)
 
 **How to install**:
 1. Download the APK.
