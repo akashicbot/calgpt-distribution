@@ -1,0 +1,35 @@
+# MCP (Model Context Protocol) related files
+.mcp.json
+temp_*.ps1
+release_script_*.ps1
+*.mcp
+mcp_*.json
+MCP_USAGE.md
+example_mcp.txt
+
+# PowerShell scripts
+*.ps1
+
+# Distribution files
+dist/
+app-release.apk
+
+# Temporary files
+temp/
+*.tmp
+
+# Log files
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
