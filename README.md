@@ -1,16 +1,14 @@
-# CalGPT v1.1.0 Update — Bug Fixes & Usability Improvements 🚀
+# CalGPT v1.1.1 Update — Critical Bug Fixes 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.1.0 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.1.1 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.1.0
+## 🔧 What's New in v1.1.1
 
-1. **Fixed First Login Experience**: Resolved the bug causing repeated pop-ups (Set Goal/Set Basic Info) during first login.
+1. **Password Reset Improvement**: Fixed case-sensitivity matching issues in the password reset functionality, ensuring a smoother account recovery experience.
 
-2. **Added Video Tutorial**: New video guide to help you get the most out of CalGPT.
-
-3. **Version Information Display**: You can now easily check which version of CalGPT you're running.
+2. **Notification System Fix**: Resolved an issue where multiple update prompts were appearing unnecessarily, creating a cleaner and less intrusive user experience.
 
 ## 🍏 iOS Users
 
@@ -22,11 +20,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.1.0
-- **Date**: 2025-04-22
-- **Filename**: calgpt1.1.0.apk
+- **Version**: v1.1.1
+- **Date**: 2025-04-30
+- **Filename**: calgpt1.1.1.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.0/calgpt1.1.0.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.1/calgpt1.1.1.apk)
 
 **How to install**:
 1. Download the APK.
