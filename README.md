@@ -1,14 +1,18 @@
-# CalGPT v1.1.1 Update — Critical Bug Fixes 🚀
+# CalGPT v1.1.2 Update — Enhanced AI Features & Multi-language Support 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.1.1 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.1.2 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.1.1
+## 🔧 What's New in v1.1.2
 
-1. **Password Reset Improvement**: Fixed case-sensitivity matching issues in the password reset functionality, ensuring a smoother account recovery experience.
+1. **Barcode Scanning Support**: Agent now enables quick product identification through barcode scanning, making food logging faster and more accurate than ever.
 
-2. **Notification System Fix**: Resolved an issue where multiple update prompts were appearing unnecessarily, creating a cleaner and less intrusive user experience.
+2. **AI-Powered Workout Analysis**: Leverage advanced AI technology to analyze your workout patterns, providing personalized insights and recommendations for optimal fitness results.
+
+3. **Multi-language Workout Database**: Access our comprehensive workout database now available in 6 languages, making CalGPT more accessible to users worldwide.
+
+4. **Bug Fixes and Stability Improvements**: We've resolved multiple issues to ensure a smoother, more reliable experience across all devices.
 
 ## 🍏 iOS Users
 
@@ -20,11 +24,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.1.1
-- **Date**: 2025-04-30
-- **Filename**: calgpt1.1.1.apk
+- **Version**: v1.1.2
+- **Date**: 2025-05-22
+- **Filename**: calgpt1.1.2.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.1/calgpt1.1.1.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.2/calgpt1.1.2.apk)
 
 **How to install**:
 1. Download the APK.
