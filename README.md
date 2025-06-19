@@ -1,18 +1,16 @@
-# CalGPT v1.1.2 Update — Enhanced AI Features & Multi-language Support 🚀
+# CalGPT v1.1.3 Update — Enhanced AI Agent Capabilities & Food Analysis Integration 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.1.2 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.1.3 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.1.2
+## 🔧 What's New in v1.1.3
 
-1. **Barcode Scanning Support**: Agent now enables quick product identification through barcode scanning, making food logging faster and more accurate than ever.
+1. **Expanded Agent Use Cases**: Enhanced our intelligent agent with comprehensive exercise and food analysis capabilities, providing users with more versatile health and fitness insights in a single platform.
 
-2. **AI-Powered Workout Analysis**: Leverage advanced AI technology to analyze your workout patterns, providing personalized insights and recommendations for optimal fitness results.
+2. **Cross-Functional Agent Integration**: Enabled seamless integration between exercise and food analysis functions, allowing our exercise agent to perform sophisticated food analysis tasks for comprehensive wellness tracking.
 
-3. **Multi-language Workout Database**: Access our comprehensive workout database now available in 6 languages, making CalGPT more accessible to users worldwide.
-
-4. **Bug Fixes and Stability Improvements**: We've resolved multiple issues to ensure a smoother, more reliable experience across all devices.
+3. **System Stability Enhancements**: Implemented multiple bug fixes and performance optimizations to deliver a more stable, reliable user experience across all device platforms.
 
 ## 🍏 iOS Users
 
@@ -24,11 +22,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.1.2
-- **Date**: 2025-05-22
-- **Filename**: calgpt1.1.2.apk
+- **Version**: v1.1.3
+- **Date**: 2025-06-19
+- **Filename**: calgpt1.1.3.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.2/calgpt1.1.2.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.3/calgpt1.1.3.apk)
 
 **How to install**:
 1. Download the APK.
