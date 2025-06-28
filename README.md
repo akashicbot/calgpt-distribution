@@ -1,16 +1,12 @@
-# CalGPT v1.1.3 Update — Enhanced AI Agent Capabilities & Food Analysis Integration 🚀
+# CalGPT v1.1.4 Update — Home Page Refresh Enhancement 🚀
 
 Dear CalGPT Community,
 
-We're excited to announce the release of CalGPT v1.1.3 for both iOS and Android! 🎉
+We're excited to announce the release of CalGPT v1.1.4 for both iOS and Android! 🎉
 
-## 🔧 What's New in v1.1.3
+## 🔧 What's New in v1.1.4
 
-1. **Expanded Agent Use Cases**: Enhanced our intelligent agent with comprehensive exercise and food analysis capabilities, providing users with more versatile health and fitness insights in a single platform.
-
-2. **Cross-Functional Agent Integration**: Enabled seamless integration between exercise and food analysis functions, allowing our exercise agent to perform sophisticated food analysis tasks for comprehensive wellness tracking.
-
-3. **System Stability Enhancements**: Implemented multiple bug fixes and performance optimizations to deliver a more stable, reliable user experience across all device platforms.
+1. **Home Page Refresh Fix**: Resolved a critical issue where the Home page failed to automatically refresh after adding food items through the AI agent, ensuring users now see their newly added food entries immediately without manual refresh.
 
 ## 🍏 iOS Users
 
@@ -22,11 +18,11 @@ The latest version is now available on the App Store:
 
 Download the latest APK:
 
-- **Version**: v1.1.3
-- **Date**: 2025-06-19
-- **Filename**: calgpt1.1.3.apk
+- **Version**: v1.1.4
+- **Date**: 2025-06-28
+- **Filename**: calgpt1.1.4.apk
 
-➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.3/calgpt1.1.3.apk)
+➡️ [Download for Android](https://github.com/akashicbot/calgpt-distribution/releases/download/v1.1.4/calgpt1.1.4.apk)
 
 **How to install**:
 1. Download the APK.
